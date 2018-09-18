@@ -3,5 +3,4 @@
 1. Depth First Search (closed list) 
 2. Breadth First Search (closed list) 
 3. Uniform Cost Search and A* algorithms.  
-### Additionally, I implemented the Astar algorithm to navigate the maze and expand the fewest node 
-### possible.
+### Additionally, I implemented the Astar algorithm to navigate the maze and expand the fewest node possible.
